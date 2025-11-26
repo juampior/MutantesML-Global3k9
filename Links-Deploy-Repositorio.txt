@@ -1,0 +1,2 @@
+Link del deploy en Render: https://mutantesml-global3k9.onrender.com/stats
+Link del repositorio en GitHub: https://github.com/juampior/MutantesML-Global3k9
