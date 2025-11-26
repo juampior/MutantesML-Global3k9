@@ -16,6 +16,15 @@ A G A A G G
 C C C C T A    ← Secuencia horizontal de 4 C's
 T C A C T G
 ```
+## 🌐 Deploy en Render
+
+El proyecto está desplegado en Render (cloud computing gratuito):
+
+**URL de producción:** `https://mutantesml-global3k9.onrender.com`
+
+### Endpoints en producción:
+- POST `https://mutantesml-global3k9.onrender.com/mutant`
+- GET `https://mutantesml-global3k9.onrender.com/stats`
 
 ## 🚀 Características
 
@@ -241,15 +250,6 @@ spring.jpa.hibernate.ddl-auto=update
 - Username: `sa`
 - Password: (dejar vacío)
 
-## 🌐 Deploy en Render
-
-El proyecto está desplegado en Render (cloud computing gratuito):
-
-**URL de producción:** `[TU_URL_DE_RENDER_AQUÍ]`
-
-### Endpoints en producción:
-- POST `https://[tu-app].onrender.com/mutant/`
-- GET `https://[tu-app].onrender.com/stats`
 
 ## 📊 Algoritmo de Detección
 
